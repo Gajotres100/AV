@@ -1,0 +1,12 @@
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\obj\Debug\netcoreapp2.2\ComProvis.CSP.Common.csprojAssemblyReference.cache
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\obj\Debug\netcoreapp2.2\ComProvis.CSP.Common.csproj.CoreCompileInputs.cache
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\obj\Debug\netcoreapp2.2\ComProvis.CSP.Common.AssemblyInfoInputs.cache
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\obj\Debug\netcoreapp2.2\ComProvis.CSP.Common.AssemblyInfo.cs
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\bin\Debug\netcoreapp2.2\ComProvis.CSP.Common.deps.json
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\bin\Debug\netcoreapp2.2\ComProvis.CSP.Common.dll
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\bin\Debug\netcoreapp2.2\ComProvis.CSP.Common.pdb
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\obj\Debug\netcoreapp2.2\ComProvis.CSP.Common.csproj.CopyComplete
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\obj\Debug\netcoreapp2.2\ComProvis.CSP.Common.dll
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Common\obj\Debug\netcoreapp2.2\ComProvis.CSP.Common.pdb

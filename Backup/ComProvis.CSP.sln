@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComProvis.Csp.API", "ComProvis.CSP\ComProvis.Csp.API.csproj", "{B4EE6C11-1131-4DB3-8A52-AE9FF9E1E8D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComProvis.Csp.Infrastructure.MS", "ComProvis.Csp.integration.Ms\ComProvis.Csp.Infrastructure.MS.csproj", "{392A3733-6B91-4B69-A0F4-1585BE38CCD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComProvis.CSP.Application", "ComProvis.CSP.Application\ComProvis.CSP.Application.csproj", "{FC36314E-1997-4E2E-A884-EB5206FDD83B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComProvis.CSP.Domain", "ComProvis.CSP.Domain\ComProvis.CSP.Domain.csproj", "{4B12955D-C4CD-43CA-9121-C61B944939C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComProvis.CSP.Persistance", "ComProvis.CSP.Persistance\ComProvis.CSP.Persistance.csproj", "{8A18D4C9-4809-444D-87A1-13F0D5343734}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComProvis.CSP.Common", "ComProvis.CSP.Common\ComProvis.CSP.Common.csproj", "{B417DB69-50B9-497F-8458-3CE0F5479494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4EE6C11-1131-4DB3-8A52-AE9FF9E1E8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EE6C11-1131-4DB3-8A52-AE9FF9E1E8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EE6C11-1131-4DB3-8A52-AE9FF9E1E8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EE6C11-1131-4DB3-8A52-AE9FF9E1E8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392A3733-6B91-4B69-A0F4-1585BE38CCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392A3733-6B91-4B69-A0F4-1585BE38CCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392A3733-6B91-4B69-A0F4-1585BE38CCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392A3733-6B91-4B69-A0F4-1585BE38CCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC36314E-1997-4E2E-A884-EB5206FDD83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC36314E-1997-4E2E-A884-EB5206FDD83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC36314E-1997-4E2E-A884-EB5206FDD83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC36314E-1997-4E2E-A884-EB5206FDD83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B12955D-C4CD-43CA-9121-C61B944939C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B12955D-C4CD-43CA-9121-C61B944939C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B12955D-C4CD-43CA-9121-C61B944939C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B12955D-C4CD-43CA-9121-C61B944939C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A18D4C9-4809-444D-87A1-13F0D5343734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A18D4C9-4809-444D-87A1-13F0D5343734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A18D4C9-4809-444D-87A1-13F0D5343734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A18D4C9-4809-444D-87A1-13F0D5343734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B417DB69-50B9-497F-8458-3CE0F5479494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B417DB69-50B9-497F-8458-3CE0F5479494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B417DB69-50B9-497F-8458-3CE0F5479494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B417DB69-50B9-497F-8458-3CE0F5479494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6DC68D-3FB6-4981-BDA2-567D43E6A805}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.dev.comcloud.com:8080/tfs/netcore
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ComProvis.CSP\\ComProvis.Csp.API.csproj
+		SccProjectName1 = ComProvis.CSP
+		SccLocalPath1 = ComProvis.CSP
+		SccProjectUniqueName2 = ComProvis.Csp.integration.Ms\\ComProvis.Csp.Infrastructure.Ms.csproj
+		SccProjectName2 = ComProvis.Csp.integration.Ms
+		SccLocalPath2 = ComProvis.Csp.integration.Ms
+		SccProjectUniqueName3 = ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj
+		SccProjectName3 = ComProvis.CSP.Application
+		SccLocalPath3 = ComProvis.CSP.Application
+		SccProjectUniqueName4 = ComProvis.CSP.Domain\\ComProvis.CSP.Domain.csproj
+		SccProjectName4 = ComProvis.CSP.Domain
+		SccLocalPath4 = ComProvis.CSP.Domain
+		SccProjectUniqueName5 = ComProvis.CSP.Persistance\\ComProvis.CSP.Persistance.csproj
+		SccProjectName5 = ComProvis.CSP.Persistance
+		SccLocalPath5 = ComProvis.CSP.Persistance
+		SccProjectUniqueName6 = ComProvis.CSP.Common\\ComProvis.CSP.Common.csproj
+		SccProjectName6 = ComProvis.CSP.Common
+		SccLocalPath6 = ComProvis.CSP.Common
+	EndGlobalSection
+EndGlobal

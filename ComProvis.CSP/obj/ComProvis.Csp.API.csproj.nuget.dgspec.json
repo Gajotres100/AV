@@ -1,0 +1,478 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP\\ComProvis.Csp.API.csproj": {}
+  },
+  "projects": {
+    "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj",
+        "projectName": "ComProvis.CSP.Application",
+        "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj",
+        "packagesPath": "C:\\Users\\apisit\\.nuget\\packages\\",
+        "outputPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apisit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Common\\ComProvis.CSP.Common.csproj": {
+                "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Common\\ComProvis.CSP.Common.csproj"
+              },
+              "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Domain\\ComProvis.CSP.Domain.csproj": {
+                "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Domain\\ComProvis.CSP.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Common\\ComProvis.CSP.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Common\\ComProvis.CSP.Common.csproj",
+        "projectName": "ComProvis.CSP.Common",
+        "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Common\\ComProvis.CSP.Common.csproj",
+        "packagesPath": "C:\\Users\\apisit\\.nuget\\packages\\",
+        "outputPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apisit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Domain\\ComProvis.CSP.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Domain\\ComProvis.CSP.Domain.csproj",
+        "projectName": "ComProvis.CSP.Domain",
+        "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Domain\\ComProvis.CSP.Domain.csproj",
+        "packagesPath": "C:\\Users\\apisit\\.nuget\\packages\\",
+        "outputPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apisit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.Csp.integration.Ms\\ComProvis.Csp.Infrastructure.MS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.Csp.integration.Ms\\ComProvis.Csp.Infrastructure.MS.csproj",
+        "projectName": "ComProvis.Csp.Infrastructure.MS",
+        "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.Csp.integration.Ms\\ComProvis.Csp.Infrastructure.MS.csproj",
+        "packagesPath": "C:\\Users\\apisit\\.nuget\\packages\\",
+        "outputPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.Csp.integration.Ms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apisit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj": {
+                "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj"
+              },
+              "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Common\\ComProvis.CSP.Common.csproj": {
+                "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Common\\ComProvis.CSP.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Marvin.StreamExtensions": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Persistance\\ComProvis.CSP.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Persistance\\ComProvis.CSP.Persistance.csproj",
+        "projectName": "ComProvis.CSP.Persistance",
+        "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Persistance\\ComProvis.CSP.Persistance.csproj",
+        "packagesPath": "C:\\Users\\apisit\\.nuget\\packages\\",
+        "outputPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apisit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj": {
+                "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj"
+              },
+              "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Domain\\ComProvis.CSP.Domain.csproj": {
+                "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Domain\\ComProvis.CSP.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP\\ComProvis.Csp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP\\ComProvis.Csp.API.csproj",
+        "projectName": "ComProvis.Csp.API",
+        "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP\\ComProvis.Csp.API.csproj",
+        "packagesPath": "C:\\Users\\apisit\\.nuget\\packages\\",
+        "outputPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apisit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj": {
+                "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Application\\ComProvis.CSP.Application.csproj"
+              },
+              "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.Csp.integration.Ms\\ComProvis.Csp.Infrastructure.MS.csproj": {
+                "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.Csp.integration.Ms\\ComProvis.Csp.Infrastructure.MS.csproj"
+              },
+              "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Persistance\\ComProvis.CSP.Persistance.csproj": {
+                "projectPath": "C:\\DevingStuff\\Tfs\\ComProvis.CSP\\ComProvis.CSP.Persistance\\ComProvis.CSP.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Authentication.AzureAD.UI": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.7.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

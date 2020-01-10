@@ -1,0 +1,9 @@
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Domain\obj\Debug\netcoreapp2.2\ComProvis.CSP.Domain.csproj.CoreCompileInputs.cache
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Domain\obj\Debug\netcoreapp2.2\ComProvis.CSP.Domain.AssemblyInfoInputs.cache
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Domain\obj\Debug\netcoreapp2.2\ComProvis.CSP.Domain.AssemblyInfo.cs
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Domain\bin\Debug\netcoreapp2.2\ComProvis.CSP.Domain.deps.json
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Domain\bin\Debug\netcoreapp2.2\ComProvis.CSP.Domain.dll
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Domain\bin\Debug\netcoreapp2.2\ComProvis.CSP.Domain.pdb
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Domain\obj\Debug\netcoreapp2.2\ComProvis.CSP.Domain.csprojAssemblyReference.cache
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Domain\obj\Debug\netcoreapp2.2\ComProvis.CSP.Domain.dll
+C:\DevingStuff\Tfs\ComProvis.CSP\ComProvis.CSP.Domain\obj\Debug\netcoreapp2.2\ComProvis.CSP.Domain.pdb
